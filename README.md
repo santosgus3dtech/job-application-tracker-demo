@@ -1,5 +1,7 @@
 # Job Application Tracker Demo
 
+🇧🇷 [Leia este README em Português (Brasil)](README.pt-BR.md).
+
 A portfolio-safe React and SQLite dashboard for reviewing a synthetic job-search pipeline.
 
 ![Desktop dashboard with synthetic job data](docs/screenshots/dashboard-desktop.png)
